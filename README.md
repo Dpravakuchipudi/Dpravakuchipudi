@@ -83,9 +83,8 @@ Outside of code and charts:
 
 ## 🌐 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/durgapravallikakuchipudi)  
-- 📫 durgapravallikakuchipudi@gmail.com  
-- 📁 [View My Projects](https://github.com/durgapravallika)
+- 💼 [LinkedIn](https://www.linkedin.com/in/durgapk/)  
+- 📫 dpkuchipiu@gmail.com 
 
 ---
 
