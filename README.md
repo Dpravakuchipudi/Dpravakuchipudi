@@ -36,20 +36,21 @@ I love working at the messy intersection of:
 
 ## 🚀 Projects That Represent Me
 
-🧠 **Medical Chatbot Assistant using LLaMA 2**  
+🧠 [**Medical Chatbot Assistant using LLaMA 2**](https://github.com/Dpravakuchipudi/Medical-Chatbot-Assistant-Using-Llama2-and-HuggingFace-Embeddings-and-Pinecone-Vector)  
 A GenAI-powered healthcare assistant using Hugging Face and Pinecone — bridging retrieval with smart, safe dialogue.
 
-📈 **Mastercard Stock Market Analysis**  
+📈 [**Mastercard Stock Market Analysis**](https://github.com/Dpravakuchipudi/Mastercard_Stock_Market)  
 Time series forecasting using ARIMA and financial indicators — making markets make sense.
 
-🧪 **Facebook Vaccine Campaign Simulation**  
+🧪 [**Facebook Vaccine Campaign Simulation**](https://github.com/Dpravakuchipudi/facebook-vaccine-campaign)  
 Designed and coded a causal inference simulation from scratch to analyze emotional vs rational ad strategies on vaccine uptake.
 
-🏙️ **NYC Uber Data Engineering Project**  
+🏙️ [**NYC Uber Data Engineering Project**](https://github.com/Dpravakuchipudi/NYC-Uber-Data-Engineering-Project)  
 End-to-end ETL pipeline + dashboard to understand ride behavior across boroughs — from raw data to insights.
 
-🎓 **University Learning Insights Dashboard (DFW)**  
+🎓 [**University Learning Insights Dashboard (DFW)**](https://github.com/Dpravakuchipudi/University-Learning-Performance-Insights-Dashboard-Dallas-Fort-Worth-metropolitan-area)  
 Tableau storyboards that track equity, learning satisfaction, and course effectiveness across Texas institutions.
+
 
 ---
 
