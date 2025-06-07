@@ -27,10 +27,14 @@ I come from a background where every drop of milk in my family's dairy shop was 
 I'm not just someone who writes SQL queries or trains models — I **build systems that breathe**. I design with empathy, question everything, and bring human-centered thinking to data. Whether it’s a simulation that models vaccine behavior, an AR experience for an Indiana landmark, or a dashboard tracking educational equity across Dallas-Fort Worth — I build with purpose.
 
 I love working at the messy intersection of:
-- 💡 Machine learning and real-world experimentation  
-- 🧹 Data engineering and automation  
-- 📊 Visualization and strategic storytelling  
-- 🌍 Social impact, fairness, and research-driven innovation
+- 💡 Machine learning, GenAI, and real-world experimentation (including LLMs like LLaMA 2)
+- 🧹 Data engineering, scalable pipelines, and cloud automation
+- 🗺️ Geospatial analysis using ArcGIS and spatial storytelling
+- 👓 Augmented Reality development and immersive experiences
+- 🎨 UI/UX design and digital creativity — in my free time, you’ll often find me prototyping, sketching, or building mini brand systems
+
+At the core of everything I build is this belief: **Data should empower, not overwhelm.**
+
 
 ---
 
