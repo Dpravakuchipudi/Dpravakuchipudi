@@ -14,9 +14,83 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi Humans 😃, I'm Durga Pravallika Kuchipudi</h1>
-<p>A passionate Data Scientist</p>
-<h2>🚀 Languages and Tools I Use</h2>
+# Who's Durga Pravallika and What’s She Building? 🧠✨📊
+
+Hi 👋 I’m Durga Pravallika Kuchipudi — a data storyteller, systems thinker, and creative builder currently navigating the wild, fascinating world of data engineering, analytics, and AI.
+
+I come from a background where every drop of milk in my family's dairy shop was tracked by instinct. Now, I turn that instinct into insights — building pipelines, dashboards, and models that move organizations toward clarity, equity, and smarter decisions.
+
+---
+
+## 🌟 What I Bring to the Table
+
+I'm not just someone who writes SQL queries or trains models — I **build systems that breathe**. I design with empathy, question everything, and bring human-centered thinking to data. Whether it’s a simulation that models vaccine behavior, an AR experience for an Indiana landmark, or a dashboard tracking educational equity across Dallas-Fort Worth — I build with purpose.
+
+I love working at the messy intersection of:
+- 💡 Machine learning and real-world experimentation  
+- 🧹 Data engineering and automation  
+- 📊 Visualization and strategic storytelling  
+- 🌍 Social impact, fairness, and research-driven innovation
+
+---
+
+## 🚀 Projects That Represent Me
+
+🧠 **Medical Chatbot Assistant using LLaMA 2**  
+A GenAI-powered healthcare assistant using Hugging Face and Pinecone — bridging retrieval with smart, safe dialogue.
+
+📈 **Mastercard Stock Market Analysis**  
+Time series forecasting using ARIMA and financial indicators — making markets make sense.
+
+🧪 **Facebook Vaccine Campaign Simulation**  
+Designed and coded a causal inference simulation from scratch to analyze emotional vs rational ad strategies on vaccine uptake.
+
+🏙️ **NYC Uber Data Engineering Project**  
+End-to-end ETL pipeline + dashboard to understand ride behavior across boroughs — from raw data to insights.
+
+🎓 **University Learning Insights Dashboard (DFW)**  
+Tableau storyboards that track equity, learning satisfaction, and course effectiveness across Texas institutions.
+
+---
+
+## 🛠️ Tools I Work With
+
+**Languages:** Python, SQL, R  
+**Data Engineering:** ETL, Pandas, AWS S3, Lambda, BigQuery  
+**AI & ML:** Scikit-learn, TensorFlow, ResNet, LLaMA 2  
+**Dashboards:** Tableau, Power BI, Streamlit  
+**Extras:** ArcGIS Pro, Unity 3D, LangChain, Pinecone, GitHub, VS Code
+
+---
+
+## 🎓 The Journey So Far
+
+- M.S. in Applied Data Science from Indiana University, Indianapolis  
+- Analytics Lead at ChiEAC (Chicago Education Advocacy Coalition)  
+- Researcher, experimenter, and lifelong learner  
+- Contributor to projects spanning public health, education, finance, AR, and policy  
+
+---
+
+## 💬 A Few Human Things
+
+Outside of code and charts:  
+- 🐠 I love aquariums — something about watching fish swim calms the same brain that runs 12 tabs at once  
+- 🚶‍♀️ Long walks are my favorite debugging tool  
+- 🧠 I'm passionate about **fairness, transparency, and tech for social good**
+
+---
+
+## 🌐 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/durgapravallikakuchipudi)  
+- 📫 durgapravallikakuchipudi@gmail.com  
+- 📁 [View My Projects](https://github.com/durgapravallika)
+
+---
+
+✨ _Building thoughtful, data-powered systems — one pipeline, one model, one mission at a time._
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -67,58 +141,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
